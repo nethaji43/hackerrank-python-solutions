@@ -15,6 +15,15 @@ EASY
 4. Python: Division
 5. Loops
 6. Print Function
+---
+✔Basic Data Types - Completed
+---
+7. List Comprehensions
+8. Find the Runner-Up Score!
+9. Nested Lists
+10. Finding the percentage
+11. Lists
+12. Tuples
 
 ## Platform
 HackerRank
