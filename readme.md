@@ -24,6 +24,16 @@ EASY
 10. Finding the percentage
 11. Lists
 12. Tuples
+---
+✔Strings - 5 pending
+---
+13. Swap Case
+14. String Split and Join
+15. What's your Name
+16. Mutations
+17. Find a String
+18. String Validator
+19. Text Wrap
 
 ## Platform
 HackerRank
