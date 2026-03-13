@@ -34,6 +34,20 @@ EASY
 17. Find a String
 18. String Validator
 19. Text Wrap
+---
+✔Sets - 2 pending
+---
+20. Introduction to sets
+21. Symmetric Difference
+22. Set .add()
+23. Set .union()
+24. Set .intersection()
+25. Set .difference()
+26. Set .symmetric_difference()
+27. Set .discard(), .remove(), .pop()
+28. Set Mutation
+29. The Captain's Room
+
 
 ## Platform
 HackerRank

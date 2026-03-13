@@ -1,0 +1,6 @@
+M = int(input())
+a = set(map(int,input().split()))
+N = int(input())
+b = set(map(int,input().split()))
+result = a.difference(b)
+print(len(list(result)))
